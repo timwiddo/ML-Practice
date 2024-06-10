@@ -1,2 +1,2 @@
 # ML-Practice
-Repository for showing off my Machine Learning learnings
+Repository for showing off my Machine Learning skills 
